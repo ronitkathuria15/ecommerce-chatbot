@@ -1,0 +1,2 @@
+# ecommerce-chatbot
+The following code lays out the development of a chatbot that assist users while they use an e-commerce website for the sale of hardware and tools.  Serving as an external API to provide additional information to the user, the model is implemented through the use of DialogFlow and Python. The chatbot is integrated with Facebook Messenger and Twilio to enable smooth and convenient communication with users.   
